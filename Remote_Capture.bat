@@ -1,0 +1,1 @@
+start /min %~dp0cmdow.exe /run /hid %~dp0nircmd.exe savescreenshot %~dp0\Remote.jpg ^& exit
